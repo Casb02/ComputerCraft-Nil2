@@ -5,4 +5,4 @@ Elke computer draait op CraftOS een soort mini linux achtige OS met enkel lua su
 
 De Computer is grotendeels te programeren met de beschikbare API's
 
-(ComputerCraft: Tweaked)[https://tweaked.cc/]
+[ComputerCraft: Tweaked](https://tweaked.cc/)
